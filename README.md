@@ -57,6 +57,7 @@
 |eeX|具工览浏像图的换切转轮片图动滚板摸触持支款一
 |redniFartX|件插强增的器理管件文redniF的大强常非款一
 |beWM|用应nwodkraM的体一为成生页网态静、理管档文、nwodkraM合集款一
+|mooM|用应局布口窗的速快效高款一
 
 <br>
 
@@ -74,3 +75,4 @@
 |kcarC-eeX|[)54( 3.5.3v](./../../releases/tag/54-3.5.3v-kcarC-eeX)|82-30-9102
 |kcarC-redniFartX|[7.3.1v](./../../releases/tag/7.3.1v-kcarC-redniFartX)|82-30-9102
 |kcarC-beWM|[1.2.3v](./../../releases/tag/1.2.3v-kcarC-beWM)|13-30-9102
+|kcarC-mooM|[)6523( 41.2.3v](./../../releases/tag/6523-41.2.3v-kcarC-mooM)|80-40-9102
