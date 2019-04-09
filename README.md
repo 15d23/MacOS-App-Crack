@@ -48,7 +48,7 @@
 |ppa|介简
 |---|---
 |orP PTF ymmuY|端户客PTFS的靠可而业专常非款一
-|eertecruoS|理管目项tig于用适,件软制控本版目项的面界化视可有拥款一的上面桌
+|eertecruoS|理管目项tig于用适,件软制控本版目项的面界化视可有拥款一
 |oidutS orPLQS|具工理管化视可库据数的流主等 LQSyM 及以 elcarO ,sergtsoP ,revreS LQS 持支款一
 |rennuRedoC|具工程编的试测速快且言语程编种各持支款一
 |muimerP tacivaN|一之有没，具工理管发开库据数的用好最
@@ -59,6 +59,10 @@
 |beWM|用应nwodkraM的体一为成生页网态静、理管档文、nwodkraM合集款一
 |mooM|用应局布口窗的速快效高款一
 |rednetraB|用应的标图角上右栏单菜藏隐与理管于用款一
+|XRxEgeR|具工试测式达表则正的观直面界款一
+|relipmoceD FWS|具工译编反hsalf款一
+|esaBym|用应的体一为理管息信人个及以件软记笔、库据数式格由自、件软理管识知集款一
+|orP rerolpxE iFiW|具工的理管与析分iFiW于用款一
 
 <br>
 
@@ -78,3 +82,7 @@
 |kcarC-beWM|[1.2.3v](./../../releases/tag/1.2.3v-kcarC-beWM)|13-30-9102
 |kcarC-mooM|[)6523( 41.2.3v](./../../releases/tag/6523-41.2.3v-kcarC-mooM)|80-40-9102
 |kcarC-rednetraB|[74.0.3v](./../../releases/tag/74.0.3v-kcarC-rednetraB)|90-40-9102
+|kcarC-XRxEgeR|[1.8.1v](./../../releases/tag/1.8.1v-kcarC-XRxEgeR)|01-40-9102
+|kcarC-relipmoceD-FWS|[)2102( 4.7v](./../../releases/tag/2102-4.7v-kcarC-relipmoceD-FWS)|01-40-9102
+|kcarC-esaBym|[3.7v](./../../releases/tag/3.7v-kcarC-esaBym)|01-40-9102
+|kcarC-orP-rerolpxE-iFiW|[)43( 6.1.2v](./../../releases/tag/43-6.1.2v-kcarC-esaBym)|01-40-9102
