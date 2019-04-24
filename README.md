@@ -92,3 +92,4 @@
 |kcarC-redaeReniF|[)384799( 21.1.21v](./../../releases/tag/384799-21.1.21v-kcarC-redaeReniF)|41-40-9102
 |kcarC-sucoFinmO|[1.2.3v](./../../releases/tag/1.2.3v-kcarC-sucoFinmO)|41-40-9102
 |kcarC-rotinoMSF|[)78( 7.0.1v](./../../releases/tag/78-7.0.1v-kcarC-rotinoMSF)|41-40-9102
+|kcarC-redniFartX|[01.3.1v](./../../releases/tag/01.3.1v-kcarC-redniFartX)|42-40-9102
