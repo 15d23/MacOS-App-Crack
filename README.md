@@ -66,6 +66,11 @@
 |sucoFinmO|用应的理管务事与间时于注专款一
 |rotinoMSF|用应控监统系件文的用实款一
 |eciffO SPW|tnioprewoP、lecxE、droW括包，件软公办
+|retsooBcaM|用应化优和理清统系款一
+|savnaC GMD|包打GMD
+|tsificaP|包解GMD、GKP
+|GKPllatsninU|)包装安的式格GKP对针(载卸PPA
+|eMhsarT|)包装安的式格GMD对针(载卸PPA
 
 <br>
 
@@ -93,3 +98,8 @@
 |kcarC-rotinoMSF|[)78( 7.0.1v](./../../releases/tag/78-7.0.1v-kcarC-rotinoMSF)|41-40-9102
 |kcarC-redniFartX|[01.3.1v](./../../releases/tag/01.3.1v-kcarC-redniFartX)|42-40-9102
 |kcarC-eciffO-SPW|[)4531( 1.0.1v](./../../releases/tag/4531-1.0.1v-kcarC-eciffO-SPW)|30-50-9102
+|kcarC-retsooBcaM|[4.2.7v](./../../releases/tag/4.2.7v-kcarC-retsooBcaM)|90-50-9102
+|kcarC-savnaC-GMD|[)423( 1.4.2v](./../../releases/tag/423-1.4.2v-kcarC-savnaC-GMD)|90-50-9102
+|kcarC-tsificaP|[)37592( 1.6.3v](./../../releases/tag/37592-1.6.3v-kcarC-tsificaP)|90-50-9102
+|kcarC-GKPllatsninU|[)5121( 5.1.1v](./../../releases/tag/5121-5.1.1v-kcarC-GKPllatsninU)|90-50-9102
+|kcarC-eMhsarT|[12.1.2v](./../../releases/tag/12.1.2v-kcarC-eMhsarT)|90-50-9102
