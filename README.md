@@ -71,6 +71,10 @@
 |tsificaP|包解GMD、GKP
 |GKPllatsninU|)包装安的式格GKP对针(载卸PPA
 |eMhsarT|)包装安的式格GMD对针(载卸PPA
+|erapmoC dnoyeB|用应比对夹件文与本文的业专款一
+|tidEartlU|器辑编本文的大强能功款一
+|etsaP|用应板贴剪的秀优款一
+|xegeR|用应试测式达表则正的洁简款一
 
 <br>
 
@@ -103,3 +107,7 @@
 |kcarC-tsificaP|[)37592( 1.6.3v](./../../releases/tag/37592-1.6.3v-kcarC-tsificaP)|90-50-9102
 |kcarC-GKPllatsninU|[)5121( 5.1.1v](./../../releases/tag/5121-5.1.1v-kcarC-GKPllatsninU)|90-50-9102
 |kcarC-eMhsarT|[12.1.2v](./../../releases/tag/12.1.2v-kcarC-eMhsarT)|90-50-9102
+|kcarC-erapmoC-dnoyeB|[)62632( 9.2.4v](./../../releases/tag/62632-9.2.4v-kcarC-erapmoC-dnoyeB)|11-50-9102
+|kcarC-tidEartlU|[04.0.00.81v](./../../releases/tag/04.0.00.81v-kcarC-tidEartlU)|11-50-9102
+|kcarC-etsaP|[)55( 3.4.2v](./../../releases/tag/55-3.4.2v-kcarC-etsaP)|11-50-9102
+|kcarC-xegeR|[5.2.2v](./../../releases/tag/5.2.2v-kcarC-xegeR)|11-50-9102
